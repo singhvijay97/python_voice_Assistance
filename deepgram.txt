@@ -1,0 +1,38 @@
+## python ai project
+
+-->question answer chatbot
+-->mini chat gpt
+
+**requirements-->
+-->create a folder-->start python engine
+-->api-->grok-->free best,gemni-->flash-3.0,gpt-->
+-->main.py
+-->setting-->
+-->schema-->
+-->router-->
+-->fast api-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
